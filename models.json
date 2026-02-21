@@ -1,0 +1,10 @@
+{
+  "yolo": {
+    "version": "1.0",
+    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V1.0/ygo_yolo_fp16.onnx"
+  },
+  "vit": {
+    "version": "1.0",
+    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V1.0/vit_classifier_fp16.onnx"
+  }
+}

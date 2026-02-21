@@ -1,10 +1,12 @@
 {
   "yolo": {
     "version": "1.0",
-    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V1.0/ygo_yolo_fp16.onnx"
+    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V1.0/ygo_yolo_fp16.onnx",
+    "sha256": "2de557905f0f349a1425e2425ca1ffbbef1098c9211ff065bf3ca5ffc71eb758"
   },
   "vit": {
     "version": "1.0",
-    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V1.0/vit_classifier_fp16.onnx"
+    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V1.0/vit_classifier_fp16.onnx",
+    "sha256": "e6541edf1bb5d7f0669bf638dfbdd6c740c1274e30d85ca150d860f6fe1e96e3"
   }
 }

@@ -5,8 +5,15 @@
     "sha256": "2de557905f0f349a1425e2425ca1ffbbef1098c9211ff065bf3ca5ffc71eb758"
   },
   "vit": {
-    "version": "1.0",
-    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V1.0/vit_classifier_fp16.onnx",
-    "sha256": "e6541edf1bb5d7f0669bf638dfbdd6c740c1274e30d85ca150d860f6fe1e96e3"
+    "version": "2.0",
+    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V2.0/vit_classifier_int8.onnx",
+    "sha256": "06f69fd7c64003a9799a9a36e74ab4e4ea942d8bbb4864e45974a53c7ab7b0f9",
+    "companion_assets": [
+      {
+        "name": "card_labels",
+        "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V2.0/card_labels.json",
+        "sha256": "6f84ad4daf4700b98727adfb83e3775c36f77a30da04d39dd218fcd1a33d1c06"
+      }
+    ]
   }
 }

@@ -5,14 +5,14 @@
     "sha256": "2de557905f0f349a1425e2425ca1ffbbef1098c9211ff065bf3ca5ffc71eb758"
   },
   "vit": {
-    "version": "2.0",
-    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V2.0/vit_classifier_int8.onnx",
-    "sha256": "06f69fd7c64003a9799a9a36e74ab4e4ea942d8bbb4864e45974a53c7ab7b0f9",
+    "version": "3.0",
+    "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V3.0/vit_classifier_int8.onnx",
+    "sha256": "bcde9c36204d391f44d11038a5dcd7742b99f1fcbdf26583670be29010cd8bd9",
     "companion_assets": [
       {
         "name": "card_labels",
-        "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V2.0/card_labels.json",
-        "sha256": "6f84ad4daf4700b98727adfb83e3775c36f77a30da04d39dd218fcd1a33d1c06"
+        "url": "https://github.com/LoganCRC/yugiscan-models/releases/download/V3.0/card_labels.json",
+        "sha256": "4f558eeef0be9f530d1f4b58eab0520af21ef845c6482105161be98db290b90b"
       }
     ]
   }
